@@ -5,6 +5,8 @@
 
 School project 
 
+Original repo: https://github.com/14A-E-Council
+
 Contributors:
 - Tibor Blascsok
 - Gergely Gurumlai
